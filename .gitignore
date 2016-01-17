@@ -1,3 +1,4 @@
 /ml-latest/*
 /NETFLIX DATASET/*
-*.csv
+final_rating_data.csv
+rating_data.csv
